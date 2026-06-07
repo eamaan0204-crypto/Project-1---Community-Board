@@ -1,4 +1,5 @@
 import ResourceCard from "./components/ResourceCard";
+import demoGif from "./assets/demo.gif";
 
 const resources = [
   {
